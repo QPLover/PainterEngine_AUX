@@ -1,0 +1,2 @@
+# PainterEngine辅助软件包
+PainterEngine在RT-Thread下的scons构建脚本，用户在menuconfig中选择使用PainterEngine软件包时，会自动选定本软件包
