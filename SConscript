@@ -1,7 +1,7 @@
 from building import *
 Import('rtconfig')
 
-pe_dir = GetCurrentDir() + '/../PainterEngine_SRC'
+pe_dir = GetCurrentDir() + '/../PainterEngine-latest'
 
 path = []
 src = []
